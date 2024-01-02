@@ -1,2 +1,1 @@
-# counterup1
-30 js and jq plugin
+# counterup1 JS-JQ plugin
